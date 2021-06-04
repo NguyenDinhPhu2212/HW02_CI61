@@ -1,6 +1,6 @@
 import { Meme } from "./module/Meme.js";
 import { MemeCollection } from "./module/MemeCollection.js";
-import {Product,Household,Clothes,Food} from "./module/Product.js";
+import {Product,Houseware,Clothes,Food} from "./module/Product.js";
 import {ProductManagement} from "./module/ProductManagement.js";
 const meme = new Meme(
     1,
