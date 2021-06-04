@@ -9,7 +9,7 @@ export class Product {
     }
 }
 
-export class Household extends Product {
+export class Houseware extends Product {
     constructor(id,name,price,factory,saleOff,date,durability) {
         super(id,name,price,factory,saleOff,date);
         this.durability = durability;
