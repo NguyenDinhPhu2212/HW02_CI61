@@ -24,7 +24,7 @@ memeCollection.add(tmp);
 memeCollection.update(1,{ id: 3, name: "haaa", image: "none", dateModified: "5/6/2021" });
 memeCollection.delete(1);
 memeCollection.show();
-let shirt = new Clothes(1,"shirt",100,'aaa',10,'4/6/2021','VN','Cotton');
+let shirt = new Clothes(1,"shirt",120,'aaa',5,'4/6/2021','VN','Cotton');
 let manage = new ProductManagement();
 
 
